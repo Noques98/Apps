@@ -1,0 +1,12 @@
+header {
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+}
+* {
+    text-align: center;
+}
+footer {
+    background-color: blueviolet;
+    padding:25px
+}
